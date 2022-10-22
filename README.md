@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Ruby Blog
+# Ruby API Backend
 
-The repo contain a blog app create using ruby on rails. It used postgres database for storing data.
+The repo contain a api create using ruby on rails. It used postgres database for storing data. It shows greeting
 
 ## Built With
 
@@ -21,11 +21,11 @@ Tools
 
 💠GITHUB
 
-💠LINTERS (Sylint, RoboCop)
+💠LINTERS ( RoboCop)
 
 # Project Name
 
-Ruby Blog App
+Ruby Greeting Api
 
 # Live Demo
 <!-- [Live Link Heroku](https://hcalculator-app.herokuapp.com/)
@@ -48,6 +48,8 @@ To get a local copy up and running follow these sample example steps.
 You can install git from the following site.
   -  [Git](https://git-scm.com/downloads)
 
+### Link to Front-end
+[Front End](https://github.com/waqaskanju/hello-react-front-end)
 ### Usage
 Free to use for your work
 
