@@ -49,7 +49,7 @@ You can install git from the following site.
   -  [Git](https://git-scm.com/downloads)
 
 ### Link to Front-end
-[Front End](https://github.com/waqaskanju/hello-react-front-end)
+[Front End Link](https://github.com/waqaskanju/hello-react-front-end/pull/1)
 ### Usage
 Free to use for your work
 
